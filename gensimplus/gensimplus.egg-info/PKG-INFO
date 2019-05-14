@@ -1,0 +1,45 @@
+Metadata-Version: 1.1
+Name: gensimplus
+Version: 3.5
+Summary: gensim在项目中的公共应用方法
+Home-page: http://www.github.com/scmsqhn/gensimplus
+Author: 秦海宁
+Author-email: qinhaining@ultrapower.com.cn
+License: BSD License
+Description: .. gensim-plus documentation master file, created by
+           sphinx-quickstart on Wed Jul 25 13:41:41 2018.
+           You can adapt this file completely to your liking, but it should at least
+           contain the root `toctree` directive.
+        
+        Welcome to gensim-plus's documentation!
+        =======================================
+        
+        Contents:
+        
+        .. toctree::
+           :maxdepth: 2
+        
+        
+        
+        Indices and tables
+        ==================
+        
+        * :ref:`genindex`
+        * :ref:`modindex`
+        * :ref:`search`
+        
+        
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries

@@ -1,0 +1,11 @@
+加权,使用以损失函数可以减少样本过采样欠采样工作流
+
+
+单标签 多分类
+softmax_cross_entropy_with_logits
+已经验证5分类
+5万样本,最小单分类样本数小于50条
+
+多标签 多分类
+weighted_cross_entropy_with_logits
+暂时未验证

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/siyuan/crim_classify/runs/target/checkpoints/model-100"
+all_model_checkpoint_paths: "/home/siyuan/crim_classify/runs/target/checkpoints/model-100"

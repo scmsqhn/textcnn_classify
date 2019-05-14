@@ -1,0 +1,14 @@
+README.rst
+setup.py
+gensimplus.egg-info/PKG-INFO
+gensimplus.egg-info/SOURCES.txt
+gensimplus.egg-info/dependency_links.txt
+gensimplus.egg-info/top_level.txt
+source/__init__.py
+source/base_interface.py
+source/conf.py
+source/dictionary_helper.py
+source/gensim_plus_config.py
+source/model_save_load_helper.py
+source/tfidf_helper.py
+source/word2vec_helper.py
